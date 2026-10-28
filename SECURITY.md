@@ -3,6 +3,7 @@
 This document outlines security procedures and general policies for the `Open OnDemand`
 project.
 
+CHANGES
 ## Reporting a Vulnerability
 
 If you have security concerns or think you have found a vulnerability in Open OnDemand,
