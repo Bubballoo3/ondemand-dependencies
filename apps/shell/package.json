@@ -20,7 +20,7 @@
     "glob": "^13",
     "hbs": "^4.1.0",
     "js-yaml": "^5.4.2",
-    "minimatch": "^11.0.1",
+    "minimatch": "^11.0.2",
     "minimist": "^1.2.6",
     "node-notifier": "^8.0.1",
     "node-pty": "^1.0.0",
@@ -40,7 +40,7 @@
     "type-is": "2.1.0",
     "iconv-lite": "0.7.3",
     "side-channel": "1.1.1",
-    "minimatch": "11.0.1"
+    "minimatch": "11.0.2"
   },
   "devDependencies": {
     "jest": "^30"
